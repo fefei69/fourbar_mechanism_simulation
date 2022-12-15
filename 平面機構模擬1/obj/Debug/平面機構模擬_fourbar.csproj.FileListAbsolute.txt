@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\bin\Debug\平面機構模擬1.exe.config
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\bin\Debug\平面機構模擬1.exe
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\bin\Debug\平面機構模擬1.pdb
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬_fourbar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬_fourbar.Form1.resources
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬1.Properties.Resources.resources
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬_fourbar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬_fourbar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬1.exe
+C:\Users\User\source\repos\平面機構模擬_fourbar1\平面機構模擬1\obj\Debug\平面機構模擬1.pdb
